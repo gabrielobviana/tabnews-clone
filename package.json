@@ -1,0 +1,24 @@
+{
+  "name": "tabnews-clone",
+  "version": "1.0.0",
+  "description": "TabNews clone built with Next.js, React and PostgreSQL. Full-stack reconstruction of Brazil's leading tech news platform to learn modern software engineering principles through Filipe Deschamps mentorship (CTO at Pagar.me, acquired by Stone Co.).",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielobviana/tabnews-clone.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gabrielobviana/tabnews-clone/issues"
+  },
+  "homepage": "https://github.com/gabrielobviana/tabnews-clone#readme",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
